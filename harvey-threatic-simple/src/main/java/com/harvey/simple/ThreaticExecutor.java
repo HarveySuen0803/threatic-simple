@@ -1,4 +1,4 @@
-package com.harvey;
+package com.harvey.simple;
 
 import cn.hutool.core.collection.ConcurrentHashSet;
 import lombok.EqualsAndHashCode;

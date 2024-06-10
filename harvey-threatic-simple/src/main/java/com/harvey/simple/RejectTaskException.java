@@ -1,4 +1,4 @@
-package com.harvey;
+package com.harvey.simple;
 
 /**
  * @author harvey
